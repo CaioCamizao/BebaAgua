@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BebaAgua</string>
+    <string name="tips">toque em um dos botões a baixo para armazenar a quantidade de ML de água consumida!</string>
+    <string name="small">200 ML</string>
+    <string name="medium">250 ML</string>
+    <string name="large">700 ML</string>
+    <string name="water">HOJE</string>
+    <string name="future">0 ML</string>
+    <string name="undo">Desfazer</string>
+    <string name="result">%1$d ML</string>
+</resources>
